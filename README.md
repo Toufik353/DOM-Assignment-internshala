@@ -33,5 +33,7 @@ Delete a Student:
 
 Click the Delete button next to the student you wish to remove.
 
+Deployed URL: https://66a0b3d5c0cd8ed4a684f6d8--glistening-cajeta-d3728a.netlify.app/
+
 
 <img width="1440" alt="Screenshot 2024-07-24 at 1 18 23 PM" src="https://github.com/user-attachments/assets/a5306622-1194-45fc-94ea-b69379b24d3d">
