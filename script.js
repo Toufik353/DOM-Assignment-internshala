@@ -81,5 +81,5 @@ studentForm.addEventListener("submit", (e) => {
     }
     studentForm.reset()
   });
-
+// to update every time
   displayStudents()
