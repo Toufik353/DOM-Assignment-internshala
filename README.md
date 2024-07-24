@@ -11,7 +11,7 @@ Data Persistence: Data persists in localStorage even after the page is refreshed
 Installation
 Clone the repository:
 
-sh
+
 Copy code
 git clone https://github.com/yourusername/student-registration-system.git
 cd student-registration-system
