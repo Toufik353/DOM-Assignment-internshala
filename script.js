@@ -30,11 +30,11 @@ const studentForm = document.getElementById("student-form");
 
     if(editStudentIndex === null){
         studentList.push({ studentName, studentEmail, studentId, studentContact });
-        document.querySelector('button').innerHTML = 'Registere'
 
     }else{
+        document.querySelector('button').innerHTML = 'REGISTER'
+
         studentList[editStudentIndex] = { studentName, studentEmail, studentId, studentContact }
-        document.querySelector('button').innerHTML = 'Save'
         editStudentIndex = null
         
     }
@@ -55,6 +55,8 @@ displayStudents()
 // Edit the Student
 function editStudent(index){
 editStudentIndex = index
+document.querySelector('button').innerHTML = 'SAVE'
+
     document.getElementById("student-name").value = studentList[index].studentName;
     document.getElementById("student-id").value = studentList[index].studentId;
      document.getElementById("student-email").value = studentList[index].studentEmail;
