@@ -32,3 +32,6 @@ Make your changes and click Save.
 Delete a Student:
 
 Click the Delete button next to the student you wish to remove.
+
+
+<img width="1440" alt="Screenshot 2024-07-24 at 1 18 23 PM" src="https://github.com/user-attachments/assets/a5306622-1194-45fc-94ea-b69379b24d3d">
